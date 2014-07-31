@@ -1,0 +1,18 @@
+.parcelas{
+    width: 50%;
+    display: block;
+    float: left;
+}
+.valor {
+    width: 50%;
+    display: block;
+    float: left;
+}
+.parcelas-esquerda{
+    float:left;
+    width:50%;
+}
+.parcelas-direita{
+    float:right;
+    width:50%;
+}
